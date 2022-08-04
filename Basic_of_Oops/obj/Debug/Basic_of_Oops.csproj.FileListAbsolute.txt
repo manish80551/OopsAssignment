@@ -1,0 +1,8 @@
+C:\Users\ManishM\source\repos\Basic_of_Oops\bin\Debug\Basic_of_Oops.exe.config
+C:\Users\ManishM\source\repos\Basic_of_Oops\bin\Debug\Basic_of_Oops.exe
+C:\Users\ManishM\source\repos\Basic_of_Oops\bin\Debug\Basic_of_Oops.pdb
+C:\Users\ManishM\source\repos\Basic_of_Oops\obj\Debug\Basic_of_Oops.csproj.AssemblyReference.cache
+C:\Users\ManishM\source\repos\Basic_of_Oops\obj\Debug\Basic_of_Oops.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManishM\source\repos\Basic_of_Oops\obj\Debug\Basic_of_Oops.csproj.CoreCompileInputs.cache
+C:\Users\ManishM\source\repos\Basic_of_Oops\obj\Debug\Basic_of_Oops.exe
+C:\Users\ManishM\source\repos\Basic_of_Oops\obj\Debug\Basic_of_Oops.pdb
